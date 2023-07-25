@@ -7,6 +7,7 @@
 5. Khoa học dữ liệu: Tập trung vào xử lý và phân tích dữ liệu lớn để rút ra thông tin hữu ích.
 6. Thiết kế đồ họa và truyền thông số: Tạo ra các sản phẩm đồ họa, video và truyền thông số.
 7. Hệ thống nhúng và IoT (Internet of Things): Nghiên cứu về tích hợp công nghệ vào các thiết bị và hệ thống thông minh.
+   
 => Như thời điểm hiện tại thì có vẻ việc làm đang rơi vào mục (1) với (6) nhiều hơn và có xu hướng (5) (7)
 Tầm 7 80% sau khi học xong thì theo làm kỹ thuật phần mềm lập trình web, lập trình ứng dụng ( android, IOS )
 ## Ưu nhược điểm của ngành :
