@@ -1,1 +1,2 @@
-# cntt2023
+# CNTT
+## Học CNTT là làm nhữnng gì ?
