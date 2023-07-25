@@ -28,8 +28,10 @@ Tầm 7 80% sau khi học xong thì theo làm kỹ thuật phần mềm lập tr
 2. Cao đẳng nghề ( FPT polytechnic )
   - Ưu điểm : Thời gian học nhanh, tập chung vào học để làm không phải học những môn rườm rà
   - Nhược điểm : Học phí có nhỉnh hơn các trường công lập phía trên 1 chút nếu tìm hiểm thì liên hệ bên tuyển sinh sẽ rõ hơn
+
 => Nhóm này a thấy thời điểm hiện tại cơ hội việc làm khá cao, tuy nhiên vì thời gian học khá ngắn nên cần độ chủ động khá cao, vừa học vừa tìm hiểu + học thêm tiếng anh thì sẽ dễ có việc làm sớm .
 3. Trung tâm ( Codegym, vietpro, vtcacademy )
-=> A không khuyến khích nhóm này lắm mặc dù học nhanh nhưng môi trường học tập có vẻ không phù hợp để hình thành phong cách làm việc + phát triển bản thân
+
+=> A không khuyến khích nhóm này lắm mặc dù học nhanh nhưng môi trường học tập có vẻ không phù hợp để hình thành phong cách làm việc + phát triển bản thân đa phần nhóm này đi phỏng vấn sẽ tạch 
 ## Note thêm 
 Hiện tại 95% các công ty trong ngành này không yêu cầu bằng cấp nhưng đa phần cần người đi làm phải có 1 số kiến thức nhất định mới có thể pass phỏng vấn ( Học ở trường là chưa đủ ). => Nếu theo ngành này e cần chủ động vừa học trên trường vừa học ở nhà, kết hợp học tiếng anh ở trung tâm ( tự học nếu có thể ) thì sẽ là hợp lý hơn.
