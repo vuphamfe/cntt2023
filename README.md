@@ -26,8 +26,8 @@ Tầm 7 80% sau khi học xong thì theo làm kỹ thuật phần mềm lập tr
    - Ưu điểm: Nhóm này thường phỏng vấn 1 số doanh nghiệp sẽ được ưu tiên hơn ( k phải là tất cả )
    - Nhược điểm : Điểm đầu vào cao từ 26++ ( Dữ liệu năm 2022 )
 2. Cao đẳng nghề ( FPT polytechnic )
-   - Ưu điểm : Thời gian học nhanh, tập chung vào học để làm không phải học những môn rườm rà
-   - Nhược điểm : Học phí có nhỉnh hơn các trường công lập phía trên 1 chút nếu tìm hiểm thì liên hệ bên tuyển sinh sẽ rõ hơn
+  - Ưu điểm : Thời gian học nhanh, tập chung vào học để làm không phải học những môn rườm rà
+  - Nhược điểm : Học phí có nhỉnh hơn các trường công lập phía trên 1 chút nếu tìm hiểm thì liên hệ bên tuyển sinh sẽ rõ hơn
 => Nhóm này a thấy thời điểm hiện tại cơ hội việc làm khá cao, tuy nhiên vì thời gian học khá ngắn nên cần độ chủ động khá cao, vừa học vừa tìm hiểu + học thêm tiếng anh thì sẽ dễ có việc làm sớm .
 3. Trung tâm ( Codegym, vietpro, vtcacademy )
 => A không khuyến khích nhóm này lắm mặc dù học nhanh nhưng môi trường học tập có vẻ không phù hợp để hình thành phong cách làm việc + phát triển bản thân
