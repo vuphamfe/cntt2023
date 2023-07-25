@@ -24,7 +24,7 @@ Tầm 7 80% sau khi học xong thì theo làm kỹ thuật phần mềm lập tr
 ## Nên theo học trường nào ưu nhược điểm :
 1.  Trường top ( Đại học bách khoa, DH công nghệ ... )
    - Ưu điểm: Nhóm này thường phỏng vấn 1 số doanh nghiệp sẽ được ưu tiên hơn ( k phải là tất cả )
-   - Nhược điểm : Điểm đầu vào cao từ 26++ ( Dữ liệu năm 2023 )
+   - Nhược điểm : Điểm đầu vào cao từ 26++ ( Dữ liệu năm 2022 )
 2. Cao đẳng nghề ( FPT polytechnic )
     - Ưu điểm : Thời gian học nhanh, tập chung vào học để làm không phải học những môn rườm rà
     - Nhược điểm : Học phí có nhỉnh hơn các trường công lập phía trên 1 chút nếu tìm hiểm thì liên hệ bên tuyển sinh sẽ rõ hơn
