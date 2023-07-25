@@ -30,6 +30,7 @@ Tầm 7 80% sau khi học xong thì theo làm kỹ thuật phần mềm lập tr
   - Nhược điểm : Học phí có nhỉnh hơn các trường công lập phía trên 1 chút nếu tìm hiểm thì liên hệ bên tuyển sinh sẽ rõ hơn
 
 => Nhóm này a thấy thời điểm hiện tại cơ hội việc làm khá cao, tuy nhiên vì thời gian học khá ngắn nên cần độ chủ động khá cao, vừa học vừa tìm hiểu + học thêm tiếng anh thì sẽ dễ có việc làm sớm .
+
 3. Trung tâm ( Codegym, vietpro, vtcacademy )
 
 => A không khuyến khích nhóm này lắm mặc dù học nhanh nhưng môi trường học tập có vẻ không phù hợp để hình thành phong cách làm việc + phát triển bản thân đa phần nhóm này đi phỏng vấn sẽ tạch 
